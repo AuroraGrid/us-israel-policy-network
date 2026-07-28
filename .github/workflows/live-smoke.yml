@@ -1,0 +1,26 @@
+name: Live site smoke test
+
+on:
+  schedule:
+    - cron: "29 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/live-smoke.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Verify production endpoint
+        shell: bash
+        run: |
+          set -euo pipefail
+          body="$(curl --fail --silent --show-error --location --retry 3 --max-time 30 https://youname-it.vercel.app/)"
+          test -n "$body"
+          grep -Eqi "U\.S\.|Israel|Policy Network" <<<"$body"
+          echo "Production endpoint returned expected project identity."
