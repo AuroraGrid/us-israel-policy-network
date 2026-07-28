@@ -1,5 +1,8 @@
 # The U.S.–Israel Policy Network
 
+[![Quality checks](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/quality.yml/badge.svg)](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/quality.yml)
+[![Live site smoke test](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/live-smoke.yml)
+
 A public-facing, source-audited research website built with AURORA GRID and RECORD LOCK methods.
 
 ## Live site
