@@ -1,10 +1,14 @@
 # The U.S.–Israel Policy Network
 
-A public, source-audited research website built with AURORA GRID and RECORD LOCK methods.
+A public-facing, source-audited research website built with AURORA GRID and RECORD LOCK methods.
 
 ## Live site
 
 https://youname-it.vercel.app/
+
+## Repository
+
+https://github.com/hr185882-creator/US-Israel-Policy-Network
 
 ## Purpose
 
@@ -39,6 +43,8 @@ Every consequential claim is intended to be traceable to:
 4. a binding constraint;
 5. a condition that would change the assessment.
 
+See [METHODOLOGY.md](METHODOLOGY.md) for the evidence classes, analytical sequence, guardrails, and revision standard.
+
 ## Role
 
 Hasan Raza Kazmi directed the research architecture, analytical framing, source selection, evidence classification, editorial review, interface design, and Vercel deployment.
@@ -49,7 +55,7 @@ Hasan Raza Kazmi directed the research architecture, analytical framing, source 
 - RECORD LOCK: https://record-lock-platform.vercel.app/
 - Research & Decision Systems Portfolio: https://hasan-research-systems.vercel.app/
 - AURORA GRID OS: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
-- Full project index: https://github.com/hr185882-creator/clia-portfolio
+- Recruiter-facing GitHub profile: https://github.com/hr185882-creator
 
 ## Deployment
 
