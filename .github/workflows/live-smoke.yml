@@ -20,7 +20,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          body="$(curl --fail --silent --show-error --location --retry 3 --max-time 30 https://youname-it.vercel.app/)"
+          body="$(curl --fail --silent --show-error --location --retry 3 --max-time 30 https://us-israel-policy.vercel.app/)"
           test -n "$body"
           grep -Eqi "U\.S\.|Israel|Policy Network" <<<"$body"
           echo "Production endpoint returned expected project identity."
