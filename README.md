@@ -1,7 +1,7 @@
 # The U.S.–Israel Policy Network
 
-[![Quality checks](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/quality.yml/badge.svg)](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/quality.yml)
-[![Live site smoke test](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/hr185882-creator/US-Israel-Policy-Network/actions/workflows/live-smoke.yml)
+[![Quality checks](https://github.com/AuroraGrid/US-Israel-Policy-Network/actions/workflows/quality.yml/badge.svg)](https://github.com/AuroraGrid/US-Israel-Policy-Network/actions/workflows/quality.yml)
+[![Live site smoke test](https://github.com/AuroraGrid/US-Israel-Policy-Network/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/AuroraGrid/US-Israel-Policy-Network/actions/workflows/live-smoke.yml)
 
 A public-facing, source-audited research website built with AURORA GRID and RECORD LOCK methods.
 
@@ -11,7 +11,7 @@ https://youname-it.vercel.app/
 
 ## Repository
 
-https://github.com/hr185882-creator/US-Israel-Policy-Network
+https://github.com/AuroraGrid/US-Israel-Policy-Network
 
 ## Purpose
 
@@ -57,8 +57,8 @@ Hasan Raza Kazmi directed the research architecture, analytical framing, source 
 - The Epstein Record: https://the-epstein-record.vercel.app/
 - RECORD LOCK: https://record-lock-platform.vercel.app/
 - Research & Decision Systems Portfolio: https://hasan-research-systems.vercel.app/
-- AURORA GRID OS: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
-- Recruiter-facing GitHub profile: https://github.com/hr185882-creator
+- AURORA GRID OS: https://AuroraGrid.github.io/aurora-grid-grindwire-site/
+- Recruiter-facing GitHub profile: https://github.com/AuroraGrid
 
 ## Deployment
 
